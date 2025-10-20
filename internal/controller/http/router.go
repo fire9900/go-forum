@@ -2,11 +2,11 @@
 package http
 
 import (
-	"go-forum/config"
-	"go-forum/internal/controller/http/middleware"
-	v1 "go-forum/internal/controller/http/v1"
-	"go-forum/internal/usecase"
-	"go-forum/pkg/logger"
+	"github.com/fire9900/go-forum/config"
+	"github.com/fire9900/go-forum/internal/controller/http/middleware"
+	v1 "github.com/fire9900/go-forum/internal/controller/http/v1"
+	"github.com/fire9900/go-forum/internal/usecase"
+	"github.com/fire9900/go-forum/pkg/logger"
 	"net/http"
 
 	"github.com/ansrivas/fiberprometheus/v2"

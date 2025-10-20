@@ -7,8 +7,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"time"
 
+	"github.com/fire9900/go-forum/pkg/logger"
 	"github.com/goccy/go-json"
-	"go-forum/pkg/logger"
 	"golang.org/x/sync/errgroup"
 )
 

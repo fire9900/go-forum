@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"go-forum/pkg/logger"
+	"github.com/fire9900/go-forum/pkg/logger"
 	"strconv"
 	"strings"
 

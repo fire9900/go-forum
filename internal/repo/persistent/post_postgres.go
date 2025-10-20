@@ -3,8 +3,8 @@ package persistent
 import (
 	"context"
 	"fmt"
-	"go-forum/internal/entity"
-	"go-forum/pkg/postgres"
+	"github.com/fire9900/go-forum/internal/entity"
+	"github.com/fire9900/go-forum/pkg/postgres"
 
 	"github.com/Masterminds/squirrel"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-forum/config"
-	"go-forum/internal/app"
+	"github.com/fire9900/go-forum/config"
+	"github.com/fire9900/go-forum/internal/app"
 	"log"
 )
 

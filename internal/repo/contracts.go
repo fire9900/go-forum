@@ -2,7 +2,7 @@ package repo
 
 import (
 	"context"
-	"go-forum/internal/entity"
+	"github.com/fire9900/go-forum/internal/entity"
 )
 
 type (

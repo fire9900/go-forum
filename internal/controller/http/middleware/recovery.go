@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"fmt"
-	"go-forum/pkg/logger"
+	"github.com/fire9900/go-forum/pkg/logger"
 	"runtime/debug"
 	"strings"
 

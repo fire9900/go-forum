@@ -1,9 +1,9 @@
 package v1
 
 import (
+	"github.com/fire9900/go-forum/pkg/logger"
 	"github.com/go-playground/validator/v10"
 	"github.com/gofiber/fiber/v2"
-	"go-forum/pkg/logger"
 )
 
 // NewThreadRoutes -.

@@ -3,7 +3,7 @@ package usecase
 
 import (
 	"context"
-	"go-forum/internal/entity"
+	"github.com/fire9900/go-forum/internal/entity"
 )
 
 //go:generate mockgen -source=interfaces.go -destination=./mocks_usecase_test.go -package=usecase_test

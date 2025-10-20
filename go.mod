@@ -1,4 +1,4 @@
-module go-forum
+module github.com/fire9900/go-forum
 
 go 1.25.1
 

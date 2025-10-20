@@ -4,7 +4,7 @@ package grpcserver
 import (
 	"context"
 	"errors"
-	"go-forum/pkg/logger"
+	"github.com/fire9900/go-forum/pkg/logger"
 	"net"
 
 	"golang.org/x/sync/errgroup"
